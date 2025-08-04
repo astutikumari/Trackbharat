@@ -1,12 +1,13 @@
+<img width="1919" height="890" alt="Screenshot 2025-08-04 232706" src="https://github.com/user-attachments/assets/0dda1c7d-8580-42a9-b014-49fef5f2aae4" />
+
+
 # 🌍 TrackBharat – SDG India Index & Dashboard
 
 An interactive and data-driven web platform to **track India's progress** toward the **United Nations Sustainable Development Goals (SDGs)** using visual tools, government data, and awareness resources. Built as part of the **IBM SkillsBuild Front-End Web Development PBL Program 2025**.
 
----
 
-## 🚀 Live Demo
+<img width="1919" height="885" alt="Screenshot 2025-08-04 232748" src="https://github.com/user-attachments/assets/3ddb4391-4251-4f1e-92d3-17025047478c" />
 
-🔗 [Visit the Website](https://yourusername.github.io/TrackBharat)
 
 ---
 
